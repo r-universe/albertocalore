@@ -4,4 +4,4 @@
 	branch = HEAD
 [submodule "MARMoT"]
 	path = MARMoT
-	url = https://github.com/cran/MARMoT
+	url = https://github.com/albertocalore/marmot
